@@ -1,0 +1,4158 @@
+{
+  "source_scenes_file": "scenes.json",
+  "scene_count": 146,
+  "scenes": [
+    {
+      "scene_id": "1",
+      "type": "hook",
+      "visual_type": "hook",
+      "start": 0.0,
+      "end": 10.0,
+      "duration": 10.0,
+      "visual_query": "entrepreneur working laptop night",
+      "query": "entrepreneur working laptop night",
+      "videos": []
+    },
+    {
+      "scene_id": "2",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 10.0,
+      "end": 16.368,
+      "duration": 6.368,
+      "visual_query": "person building online business computer",
+      "query": "person building online business computer",
+      "videos": [
+        {
+          "pexels_id": 6985494,
+          "file": "visuals/scene_2/pexels_6985494.mp4",
+          "url": "https://www.pexels.com/video/man-using-a-computer-6985494/",
+          "creator": "Diva Plavalaguna",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 6169098,
+          "file": "visuals/scene_2/pexels_6169098.mp4",
+          "url": "https://www.pexels.com/video/man-writing-on-paper-6169098/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 26.0
+        }
+      ]
+    },
+    {
+      "scene_id": "3",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 16.368,
+      "end": 22.736,
+      "duration": 6.368,
+      "visual_query": "technology startup laptop",
+      "query": "technology startup laptop",
+      "videos": [
+        {
+          "pexels_id": 4326540,
+          "file": "visuals/scene_3/pexels_4326540.mp4",
+          "url": "https://www.pexels.com/video/a-man-closing-the-laptop-cover-4326540/",
+          "creator": "Ketut Subiyanto",
+          "width": 3840,
+          "height": 2160,
+          "duration": 6.0
+        },
+        {
+          "pexels_id": 8632783,
+          "file": "visuals/scene_3/pexels_8632783.mp4",
+          "url": "https://www.pexels.com/video/person-drinking-coffee-while-using-a-laptop-8632783/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "4",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 22.736,
+      "end": 29.448,
+      "duration": 6.712,
+      "visual_query": "fast business technology montage",
+      "query": "fast business technology montage",
+      "videos": [
+        {
+          "pexels_id": 17564201,
+          "file": "visuals/scene_4/pexels_17564201.mp4",
+          "url": "https://www.pexels.com/video/a-computer-generated-image-of-a-room-with-many-cubes-17564201/",
+          "creator": "Pachon in Motion",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        },
+        {
+          "pexels_id": 17564230,
+          "file": "visuals/scene_4/pexels_17564230.mp4",
+          "url": "https://www.pexels.com/video/a-black-and-white-abstract-image-of-a-colorful-explosion-17564230/",
+          "creator": "Pachon in Motion",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "5",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 29.448,
+      "end": 35.472,
+      "duration": 6.024,
+      "visual_query": "creative entrepreneur workspace",
+      "query": "creative entrepreneur workspace",
+      "videos": [
+        {
+          "pexels_id": 8902459,
+          "file": "visuals/scene_5/pexels_8902459.mp4",
+          "url": "https://www.pexels.com/video/a-person-sketching-on-notebook-8902459/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 18.0
+        },
+        {
+          "pexels_id": 9849532,
+          "file": "visuals/scene_5/pexels_9849532.mp4",
+          "url": "https://www.pexels.com/video/back-view-of-a-fashion-designer-sketching-while-looking-at-a-mood-board-9849532/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 32.0
+        }
+      ]
+    },
+    {
+      "scene_id": "6",
+      "type": "section_card",
+      "visual_type": "section_card",
+      "start": 35.472,
+      "end": 37.672,
+      "duration": 2.2,
+      "visual_query": "AI‑Powered Freelance Services",
+      "query": "AI‑Powered Freelance Services",
+      "videos": []
+    },
+    {
+      "scene_id": "7",
+      "type": "point",
+      "visual_type": "point",
+      "start": 37.672,
+      "end": 44.672,
+      "duration": 7.0,
+      "visual_query": "Close‑up of hands typing on a laptop with an AI writing interface visible",
+      "query": "Close‑up of hands typing on a laptop with an AI writing interface visible",
+      "videos": []
+    },
+    {
+      "scene_id": "8",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 44.672,
+      "end": 51.395,
+      "duration": 6.723,
+      "visual_query": "Freelancer reviewing a client brief over coffee in a co‑working space",
+      "query": "Freelancer reviewing a client brief over coffee in a co‑working space",
+      "videos": [
+        {
+          "pexels_id": 6828728,
+          "file": "visuals/scene_8/pexels_6828728.mp4",
+          "url": "https://www.pexels.com/video/people-inside-a-cafe-6828728/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 6193983,
+          "file": "visuals/scene_8/pexels_6193983.mp4",
+          "url": "https://www.pexels.com/video/young-man-using-laptop-6193983/",
+          "creator": "Diva Plavalaguna",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        }
+      ]
+    },
+    {
+      "scene_id": "9",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 51.395,
+      "end": 58.118,
+      "duration": 6.723,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 6561340,
+          "file": "visuals/scene_9/pexels_6561340.mp4",
+          "url": "https://www.pexels.com/video/man-typing-on-laptop-6561340/",
+          "creator": "Mikael Blomkvist",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 10374960,
+          "file": "visuals/scene_9/pexels_10374960.mp4",
+          "url": "https://www.pexels.com/video/a-man-typing-on-a-laptop-10374960/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "10",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 58.118,
+      "end": 64.84,
+      "duration": 6.722,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 6913276,
+          "file": "visuals/scene_10/pexels_6913276.mp4",
+          "url": "https://www.pexels.com/video/a-person-holding-a-digital-tablet-6913276/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 21.0
+        },
+        {
+          "pexels_id": 9305517,
+          "file": "visuals/scene_10/pexels_9305517.mp4",
+          "url": "https://www.pexels.com/video/a-woman-drinking-a-cup-of-coffee-9305517/",
+          "creator": "Monstera Production",
+          "width": 4096,
+          "height": 2160,
+          "duration": 25.0
+        }
+      ]
+    },
+    {
+      "scene_id": "11",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 64.84,
+      "end": 71.563,
+      "duration": 6.723,
+      "visual_query": "modern office computer",
+      "query": "modern office computer",
+      "videos": [
+        {
+          "pexels_id": 8631874,
+          "file": "visuals/scene_11/pexels_8631874.mp4",
+          "url": "https://www.pexels.com/video/women-talking-while-looking-at-the-laptop-8631874/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 5082586,
+          "file": "visuals/scene_11/pexels_5082586.mp4",
+          "url": "https://www.pexels.com/video/a-white-computer-screen-on-a-table-5082586/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 19.0
+        }
+      ]
+    },
+    {
+      "scene_id": "12",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 71.563,
+      "end": 78.286,
+      "duration": 6.723,
+      "visual_query": "person working online business",
+      "query": "person working online business",
+      "videos": [
+        {
+          "pexels_id": 7287311,
+          "file": "visuals/scene_12/pexels_7287311.mp4",
+          "url": "https://www.pexels.com/video/woman-preparing-the-shoes-for-packing-7287311/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        },
+        {
+          "pexels_id": 7287307,
+          "file": "visuals/scene_12/pexels_7287307.mp4",
+          "url": "https://www.pexels.com/video/man-preparing-the-shoes-for-packing-7287307/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "13",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 78.286,
+      "end": 85.009,
+      "duration": 6.723,
+      "visual_query": "digital entrepreneur",
+      "query": "digital entrepreneur",
+      "videos": [
+        {
+          "pexels_id": 7507757,
+          "file": "visuals/scene_13/pexels_7507757.mp4",
+          "url": "https://www.pexels.com/video/team-having-meeting-while-showing-report-presentation-on-the-television-7507757/",
+          "creator": "Moe Magners",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 8632589,
+          "file": "visuals/scene_13/pexels_8632589.mp4",
+          "url": "https://www.pexels.com/video/serious-woman-using-laptop-8632589/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "14",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 85.009,
+      "end": 91.731,
+      "duration": 6.722,
+      "visual_query": "close up hands planning a digital product on paper",
+      "query": "close up hands planning a digital product on paper",
+      "videos": [
+        {
+          "pexels_id": 9057503,
+          "file": "visuals/scene_14/pexels_9057503.mp4",
+          "url": "https://www.pexels.com/video/a-person-writing-on-a-sticky-note-9057503/",
+          "creator": "SHVETS production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        },
+        {
+          "pexels_id": 8141654,
+          "file": "visuals/scene_14/pexels_8141654.mp4",
+          "url": "https://www.pexels.com/video/close-up-of-a-person-writing-in-a-notebook-8141654/",
+          "creator": "Alena Darmel",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        }
+      ]
+    },
+    {
+      "scene_id": "15",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 91.731,
+      "end": 98.454,
+      "duration": 6.723,
+      "visual_query": "creator reviewing a project at a modern desk",
+      "query": "creator reviewing a project at a modern desk",
+      "videos": [
+        {
+          "pexels_id": 5971261,
+          "file": "visuals/scene_15/pexels_5971261.mp4",
+          "url": "https://www.pexels.com/video/a-woman-checking-some-p-5971261/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 33812578,
+          "file": "visuals/scene_15/pexels_33812578.mp4",
+          "url": "https://www.pexels.com/video/cozy-nighttime-youtuber-editing-session-33812578/",
+          "creator": "Alex Moliski",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "16",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 98.454,
+      "end": 103.512,
+      "duration": 5.058,
+      "visual_query": "small business owner checking customer feedback",
+      "query": "small business owner checking customer feedback",
+      "videos": [
+        {
+          "pexels_id": 5103987,
+          "file": "visuals/scene_16/pexels_5103987.mp4",
+          "url": "https://www.pexels.com/video/women-inspecting-the-ingredients-5103987/",
+          "creator": "Gustavo Fring",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 7287916,
+          "file": "visuals/scene_16/pexels_7287916.mp4",
+          "url": "https://www.pexels.com/video/man-taking-photo-of-a-black-shoe-7287916/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        }
+      ]
+    },
+    {
+      "scene_id": "17",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 103.512,
+      "end": 111.9,
+      "duration": 8.388,
+      "visual_query": "freelancer organizing deliverables in a home office",
+      "query": "freelancer organizing deliverables in a home office",
+      "videos": [
+        {
+          "pexels_id": 7856117,
+          "file": "visuals/scene_17/pexels_7856117.mp4",
+          "url": "https://www.pexels.com/video/woman-using-digital-tablet-while-writing-on-paper-7856117/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 6332869,
+          "file": "visuals/scene_17/pexels_6332869.mp4",
+          "url": "https://www.pexels.com/video/man-at-his-work-desk-6332869/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "18",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 111.9,
+      "end": 118.623,
+      "duration": 6.723,
+      "visual_query": "professional comparing options on a laptop",
+      "query": "professional comparing options on a laptop",
+      "videos": [
+        {
+          "pexels_id": 3253737,
+          "file": "visuals/scene_18/pexels_3253737.mp4",
+          "url": "https://www.pexels.com/video/a-man-working-with-two-laptops-while-looking-at-notes-stick-on-the-board-behind-3253737/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 8460906,
+          "file": "visuals/scene_18/pexels_8460906.mp4",
+          "url": "https://www.pexels.com/video/men-working-in-a-office-8460906/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "19",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 118.623,
+      "end": 125.345,
+      "duration": 6.722,
+      "visual_query": "creator preparing a product for online customers",
+      "query": "creator preparing a product for online customers",
+      "videos": [
+        {
+          "pexels_id": 12691851,
+          "file": "visuals/scene_19/pexels_12691851.mp4",
+          "url": "https://www.pexels.com/video/a-food-vlogger-recording-a-video-while-preparing-a-recipe-12691851/",
+          "creator": "Anna Shvets",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 7514348,
+          "file": "visuals/scene_19/pexels_7514348.mp4",
+          "url": "https://www.pexels.com/video/a-woman-making-a-vlog-7514348/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "20",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 125.345,
+      "end": 132.068,
+      "duration": 6.723,
+      "visual_query": "business owner writing a weekly action plan",
+      "query": "business owner writing a weekly action plan",
+      "videos": [
+        {
+          "pexels_id": 7596771,
+          "file": "visuals/scene_20/pexels_7596771.mp4",
+          "url": "https://www.pexels.com/video/a-woman-writing-7596771/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 42.0
+        },
+        {
+          "pexels_id": 31183723,
+          "file": "visuals/scene_20/pexels_31183723.mp4",
+          "url": "https://www.pexels.com/video/focused-office-worker-writing-at-desk-31183723/",
+          "creator": "Tech Box Hindi",
+          "width": 4096,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "21",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 132.068,
+      "end": 137.544,
+      "duration": 5.476,
+      "visual_query": "close up hands typing at a clean workstation",
+      "query": "close up hands typing at a clean workstation",
+      "videos": [
+        {
+          "pexels_id": 7706630,
+          "file": "visuals/scene_21/pexels_7706630.mp4",
+          "url": "https://www.pexels.com/video/person-working-on-a-laptop-7706630/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 5970673,
+          "file": "visuals/scene_21/pexels_5970673.mp4",
+          "url": "https://www.pexels.com/video/a-close-up-view-of-a-person-typing-on-the-keyboard-of-a-laptop-5970673/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 15.0
+        }
+      ]
+    },
+    {
+      "scene_id": "22",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 137.544,
+      "end": 145.514,
+      "duration": 7.97,
+      "visual_query": "entrepreneur reviewing work beside a notebook",
+      "query": "entrepreneur reviewing work beside a notebook",
+      "videos": [
+        {
+          "pexels_id": 36903772,
+          "file": "visuals/scene_22/pexels_36903772.mp4",
+          "url": "https://www.pexels.com/video/business-professional-reviewing-documents-at-desk-36903772/",
+          "creator": "Maria R",
+          "width": 5070,
+          "height": 2160,
+          "duration": 38.0
+        },
+        {
+          "pexels_id": 6698955,
+          "file": "visuals/scene_22/pexels_6698955.mp4",
+          "url": "https://www.pexels.com/video/a-woman-working-indoors-6698955/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 30.0
+        }
+      ]
+    },
+    {
+      "scene_id": "23",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 145.514,
+      "end": 152.237,
+      "duration": 6.723,
+      "visual_query": "person organizing digital files on a computer",
+      "query": "person organizing digital files on a computer",
+      "videos": [
+        {
+          "pexels_id": 5970710,
+          "file": "visuals/scene_23/pexels_5970710.mp4",
+          "url": "https://www.pexels.com/video/a-person-putting-usb-on-the-laptop-5970710/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 34845728,
+          "file": "visuals/scene_23/pexels_34845728.mp4",
+          "url": "https://www.pexels.com/video/video-editing-interface-overview-34845728/",
+          "creator": "Aamir Somewhere",
+          "width": 3840,
+          "height": 2160,
+          "duration": 6.0
+        }
+      ]
+    },
+    {
+      "scene_id": "24",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 152.237,
+      "end": 158.904,
+      "duration": 6.667,
+      "visual_query": "small team discussing a new online service",
+      "query": "small team discussing a new online service",
+      "videos": [
+        {
+          "pexels_id": 7504621,
+          "file": "visuals/scene_24/pexels_7504621.mp4",
+          "url": "https://www.pexels.com/video/a-group-of-people-working-together-7504621/",
+          "creator": "Moe Magners",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 7687792,
+          "file": "visuals/scene_24/pexels_7687792.mp4",
+          "url": "https://www.pexels.com/video/group-of-people-having-a-meeting-7687792/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "25",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 158.904,
+      "end": 165.682,
+      "duration": 6.778,
+      "visual_query": "creator finishing a project and reviewing the result",
+      "query": "creator finishing a project and reviewing the result",
+      "videos": [
+        {
+          "pexels_id": 5972087,
+          "file": "visuals/scene_25/pexels_5972087.mp4",
+          "url": "https://www.pexels.com/video/a-man-inspecting-wood-5972087/",
+          "creator": "Ono  Kosuki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 8632775,
+          "file": "visuals/scene_25/pexels_8632775.mp4",
+          "url": "https://www.pexels.com/video/employees-having-an-online-meeting-8632775/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "26",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 165.682,
+      "end": 169.704,
+      "duration": 4.022,
+      "visual_query": "Close‑up of hands typing on a laptop with an AI writing interface visible",
+      "query": "Close‑up of hands typing on a laptop with an AI writing interface visible",
+      "videos": [
+        {
+          "pexels_id": 5474324,
+          "file": "visuals/scene_26/pexels_5474324.mp4",
+          "url": "https://www.pexels.com/video/person-typing-in-the-laptop-5474324/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 33.0
+        },
+        {
+          "pexels_id": 7707055,
+          "file": "visuals/scene_26/pexels_7707055.mp4",
+          "url": "https://www.pexels.com/video/person-using-a-laptop-7707055/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 18.0
+        }
+      ]
+    },
+    {
+      "scene_id": "27",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 169.704,
+      "end": 177.004,
+      "duration": 7.3,
+      "visual_query": "Freelancer reviewing a client brief over coffee in a co‑working space",
+      "query": "Freelancer reviewing a client brief over coffee in a co‑working space",
+      "videos": [
+        {
+          "pexels_id": 6321265,
+          "file": "visuals/scene_27/pexels_6321265.mp4",
+          "url": "https://www.pexels.com/video/a-man-doing-sign-language-while-having-a-video-call-6321265/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 43.0
+        },
+        {
+          "pexels_id": 6828870,
+          "file": "visuals/scene_27/pexels_6828870.mp4",
+          "url": "https://www.pexels.com/video/people-having-a-business-meeting-inside-a-cafe-6828870/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "28",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 177.004,
+      "end": 181.872,
+      "duration": 4.868,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 12692090,
+          "file": "visuals/scene_28/pexels_12692090.mp4",
+          "url": "https://www.pexels.com/video/a-woman-sitting-on-a-window-ledge-using-a-laptop-12692090/",
+          "creator": "Anna Shvets",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 7882626,
+          "file": "visuals/scene_28/pexels_7882626.mp4",
+          "url": "https://www.pexels.com/video/woman-working-in-a-office-7882626/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        }
+      ]
+    },
+    {
+      "scene_id": "29",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 181.872,
+      "end": 188.272,
+      "duration": 6.4,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 6913271,
+          "file": "visuals/scene_29/pexels_6913271.mp4",
+          "url": "https://www.pexels.com/video/a-person-holding-a-white-board-6913271/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 23.0
+        },
+        {
+          "pexels_id": 7550508,
+          "file": "visuals/scene_29/pexels_7550508.mp4",
+          "url": "https://www.pexels.com/video/woman-holding-a-tablet-7550508/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "30",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 188.272,
+      "end": 192.573,
+      "duration": 4.301,
+      "visual_query": "modern office computer",
+      "query": "modern office computer",
+      "videos": [
+        {
+          "pexels_id": 8347236,
+          "file": "visuals/scene_30/pexels_8347236.mp4",
+          "url": "https://www.pexels.com/video/computers-on-a-table-8347236/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 3253209,
+          "file": "visuals/scene_30/pexels_3253209.mp4",
+          "url": "https://www.pexels.com/video/a-woman-using-her-cellphone-while-seated-in-front-of-a-computer-3253209/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "31",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 192.573,
+      "end": 199.296,
+      "duration": 6.723,
+      "visual_query": "person working online business",
+      "query": "person working online business",
+      "videos": [
+        {
+          "pexels_id": 10839351,
+          "file": "visuals/scene_31/pexels_10839351.mp4",
+          "url": "https://www.pexels.com/video/person-woman-office-working-10839351/",
+          "creator": "Midtrack -",
+          "width": 4096,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 4436879,
+          "file": "visuals/scene_31/pexels_4436879.mp4",
+          "url": "https://www.pexels.com/video/woman-laptop-internet-cafe-4436879/",
+          "creator": "Edmond Dantès",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        }
+      ]
+    },
+    {
+      "scene_id": "32",
+      "type": "section_card",
+      "visual_type": "section_card",
+      "start": 199.296,
+      "end": 201.496,
+      "duration": 2.2,
+      "visual_query": "Subscription Communities",
+      "query": "Subscription Communities",
+      "videos": []
+    },
+    {
+      "scene_id": "33",
+      "type": "point",
+      "visual_type": "point",
+      "start": 201.496,
+      "end": 208.496,
+      "duration": 7.0,
+      "visual_query": "Discord server activity feed with member avatars",
+      "query": "Discord server activity feed with member avatars",
+      "videos": []
+    },
+    {
+      "scene_id": "34",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 208.496,
+      "end": 215.265,
+      "duration": 6.769,
+      "visual_query": "Live video chat of community members sharing screens",
+      "query": "Live video chat of community members sharing screens",
+      "videos": [
+        {
+          "pexels_id": 6413835,
+          "file": "visuals/scene_34/pexels_6413835.mp4",
+          "url": "https://www.pexels.com/video/person-using-laptop-6413835/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 6413840,
+          "file": "visuals/scene_34/pexels_6413840.mp4",
+          "url": "https://www.pexels.com/video/back-view-of-a-man-on-video-call-6413840/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "35",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 215.265,
+      "end": 222.033,
+      "duration": 6.768,
+      "visual_query": "Dashboard view of subscription payments and member growth",
+      "query": "Dashboard view of subscription payments and member growth",
+      "videos": [
+        {
+          "pexels_id": 38600647,
+          "file": "visuals/scene_35/pexels_38600647.mp4",
+          "url": "https://www.pexels.com/video/crypto-market-analysis-with-binance-chart-38600647/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 49.0
+        },
+        {
+          "pexels_id": 38725027,
+          "file": "visuals/scene_35/pexels_38725027.mp4",
+          "url": "https://www.pexels.com/video/cryptocurrency-market-analysis-display-screen-38725027/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 39.0
+        }
+      ]
+    },
+    {
+      "scene_id": "36",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 222.033,
+      "end": 228.802,
+      "duration": 6.769,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 6193981,
+          "file": "visuals/scene_36/pexels_6193981.mp4",
+          "url": "https://www.pexels.com/video/a-man-using-his-laptop-6193981/",
+          "creator": "Diva Plavalaguna",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 4434831,
+          "file": "visuals/scene_36/pexels_4434831.mp4",
+          "url": "https://www.pexels.com/video/man-feeling-exhausted-while-working-with-laptop-4434831/",
+          "creator": "Edmond Dantès",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        }
+      ]
+    },
+    {
+      "scene_id": "37",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 228.802,
+      "end": 235.571,
+      "duration": 6.769,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 7278403,
+          "file": "visuals/scene_37/pexels_7278403.mp4",
+          "url": "https://www.pexels.com/video/a-proposal-of-business-plan-7278403/",
+          "creator": "Anastasia  Shuraeva",
+          "width": 4096,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 7507723,
+          "file": "visuals/scene_37/pexels_7507723.mp4",
+          "url": "https://www.pexels.com/video/people-having-a-meeting-7507723/",
+          "creator": "Moe Magners",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "38",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 235.571,
+      "end": 242.339,
+      "duration": 6.768,
+      "visual_query": "modern office computer",
+      "query": "modern office computer",
+      "videos": [
+        {
+          "pexels_id": 3044678,
+          "file": "visuals/scene_38/pexels_3044678.mp4",
+          "url": "https://www.pexels.com/video/a-woman-talking-on-her-phone-while-walking-across-the-office-3044678/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 20.0
+        },
+        {
+          "pexels_id": 6804114,
+          "file": "visuals/scene_38/pexels_6804114.mp4",
+          "url": "https://www.pexels.com/video/programmers-at-work-6804114/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 33.0
+        }
+      ]
+    },
+    {
+      "scene_id": "39",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 242.339,
+      "end": 249.108,
+      "duration": 6.769,
+      "visual_query": "person working online business",
+      "query": "person working online business",
+      "videos": [
+        {
+          "pexels_id": 7196196,
+          "file": "visuals/scene_39/pexels_7196196.mp4",
+          "url": "https://www.pexels.com/video/a-woman-typing-on-her-smartphone-7196196/",
+          "creator": "SHVETS production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 7287511,
+          "file": "visuals/scene_39/pexels_7287511.mp4",
+          "url": "https://www.pexels.com/video/man-starting-an-online-business-7287511/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "40",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 249.108,
+      "end": 255.877,
+      "duration": 6.769,
+      "visual_query": "digital entrepreneur",
+      "query": "digital entrepreneur",
+      "videos": [
+        {
+          "pexels_id": 6561848,
+          "file": "visuals/scene_40/pexels_6561848.mp4",
+          "url": "https://www.pexels.com/video/business-man-taking-notes-in-a-meeting-6561848/",
+          "creator": "Mikael Blomkvist",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 7605041,
+          "file": "visuals/scene_40/pexels_7605041.mp4",
+          "url": "https://www.pexels.com/video/man-working-at-home-while-drinking-coffee-7605041/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 31.0
+        }
+      ]
+    },
+    {
+      "scene_id": "41",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 255.877,
+      "end": 262.646,
+      "duration": 6.769,
+      "visual_query": "close up hands planning a digital product on paper",
+      "query": "close up hands planning a digital product on paper",
+      "videos": [
+        {
+          "pexels_id": 8965267,
+          "file": "visuals/scene_41/pexels_8965267.mp4",
+          "url": "https://www.pexels.com/video/people-discussing-a-blueprint-8965267/",
+          "creator": "Mikael Blomkvist",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 8134336,
+          "file": "visuals/scene_41/pexels_8134336.mp4",
+          "url": "https://www.pexels.com/video/person-writing-on-a-notepad-8134336/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "42",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 262.646,
+      "end": 269.414,
+      "duration": 6.768,
+      "visual_query": "creator reviewing a project at a modern desk",
+      "query": "creator reviewing a project at a modern desk",
+      "videos": [
+        {
+          "pexels_id": 5417651,
+          "file": "visuals/scene_42/pexels_5417651.mp4",
+          "url": "https://www.pexels.com/video/a-person-reviewing-documents-5417651/",
+          "creator": "Amina Filkins",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 33237489,
+          "file": "visuals/scene_42/pexels_33237489.mp4",
+          "url": "https://www.pexels.com/video/efficient-digital-planning-with-tablet-and-stylus-33237489/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 29.0
+        }
+      ]
+    },
+    {
+      "scene_id": "43",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 269.414,
+      "end": 276.183,
+      "duration": 6.769,
+      "visual_query": "small business owner checking customer feedback",
+      "query": "small business owner checking customer feedback",
+      "videos": [
+        {
+          "pexels_id": 5920133,
+          "file": "visuals/scene_43/pexels_5920133.mp4",
+          "url": "https://www.pexels.com/video/writing-on-a-food-truck-menu-5920133/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        },
+        {
+          "pexels_id": 5400774,
+          "file": "visuals/scene_43/pexels_5400774.mp4",
+          "url": "https://www.pexels.com/video/young-women-using-laptop-and-digital-tablet-5400774/",
+          "creator": "Amina Filkins",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        }
+      ]
+    },
+    {
+      "scene_id": "44",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 276.183,
+      "end": 282.952,
+      "duration": 6.769,
+      "visual_query": "freelancer organizing deliverables in a home office",
+      "query": "freelancer organizing deliverables in a home office",
+      "videos": [
+        {
+          "pexels_id": 8037824,
+          "file": "visuals/scene_44/pexels_8037824.mp4",
+          "url": "https://www.pexels.com/video/woman-talking-through-her-phone-8037824/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        },
+        {
+          "pexels_id": 6672000,
+          "file": "visuals/scene_44/pexels_6672000.mp4",
+          "url": "https://www.pexels.com/video/girl-using-digital-tablet-6672000/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        }
+      ]
+    },
+    {
+      "scene_id": "45",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 282.952,
+      "end": 289.72,
+      "duration": 6.768,
+      "visual_query": "professional comparing options on a laptop",
+      "query": "professional comparing options on a laptop",
+      "videos": [
+        {
+          "pexels_id": 8479049,
+          "file": "visuals/scene_45/pexels_8479049.mp4",
+          "url": "https://www.pexels.com/video/person-typing-on-a-laptop-8479049/",
+          "creator": "ArtHouse Studio",
+          "width": 3840,
+          "height": 2160,
+          "duration": 26.0
+        },
+        {
+          "pexels_id": 8512857,
+          "file": "visuals/scene_45/pexels_8512857.mp4",
+          "url": "https://www.pexels.com/video/woman-using-a-laptop-8512857/",
+          "creator": "Artem Podrez",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "46",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 289.72,
+      "end": 296.489,
+      "duration": 6.769,
+      "visual_query": "creator preparing a product for online customers",
+      "query": "creator preparing a product for online customers",
+      "videos": [
+        {
+          "pexels_id": 12433256,
+          "file": "visuals/scene_46/pexels_12433256.mp4",
+          "url": "https://www.pexels.com/video/a-woman-blogging-while-doing-online-selling-12433256/",
+          "creator": "Hanna Pad",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 12433094,
+          "file": "visuals/scene_46/pexels_12433094.mp4",
+          "url": "https://www.pexels.com/video/a-woman-showing-a-pink-blouse-while-recording-a-video-with-her-laptop-12433094/",
+          "creator": "Hanna Pad",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "47",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 296.489,
+      "end": 302.952,
+      "duration": 6.463,
+      "visual_query": "business owner writing a weekly action plan",
+      "query": "business owner writing a weekly action plan",
+      "videos": [
+        {
+          "pexels_id": 8512942,
+          "file": "visuals/scene_47/pexels_8512942.mp4",
+          "url": "https://www.pexels.com/video/a-person-writing-on-notebook-8512942/",
+          "creator": "Artem Podrez",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        },
+        {
+          "pexels_id": 8086203,
+          "file": "visuals/scene_47/pexels_8086203.mp4",
+          "url": "https://www.pexels.com/video/a-person-writing-using-a-ballpen-8086203/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 27.0
+        }
+      ]
+    },
+    {
+      "scene_id": "48",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 302.952,
+      "end": 308.904,
+      "duration": 5.952,
+      "visual_query": "close up hands typing at a clean workstation",
+      "query": "close up hands typing at a clean workstation",
+      "videos": [
+        {
+          "pexels_id": 3254071,
+          "file": "visuals/scene_48/pexels_3254071.mp4",
+          "url": "https://www.pexels.com/video/a-person-s-hand-typing-on-a-computer-keyboard-3254071/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 12283445,
+          "file": "visuals/scene_48/pexels_12283445.mp4",
+          "url": "https://www.pexels.com/video/close-up-of-people-using-computers-in-an-office-12283445/",
+          "creator": "utopia 36",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        }
+      ]
+    },
+    {
+      "scene_id": "49",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 308.904,
+      "end": 316.795,
+      "duration": 7.891,
+      "visual_query": "entrepreneur reviewing work beside a notebook",
+      "query": "entrepreneur reviewing work beside a notebook",
+      "videos": [
+        {
+          "pexels_id": 6781564,
+          "file": "visuals/scene_49/pexels_6781564.mp4",
+          "url": "https://www.pexels.com/video/a-person-holding-a-business-summary-6781564/",
+          "creator": "Artem Podrez",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 6101146,
+          "file": "visuals/scene_49/pexels_6101146.mp4",
+          "url": "https://www.pexels.com/video/man-drinking-coffee-and-working-6101146/",
+          "creator": "KATRIN  BOLOVTSOVA",
+          "width": 4096,
+          "height": 2160,
+          "duration": 19.0
+        }
+      ]
+    },
+    {
+      "scene_id": "50",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 316.795,
+      "end": 322.44,
+      "duration": 5.645,
+      "visual_query": "person organizing digital files on a computer",
+      "query": "person organizing digital files on a computer",
+      "videos": [
+        {
+          "pexels_id": 8256349,
+          "file": "visuals/scene_50/pexels_8256349.mp4",
+          "url": "https://www.pexels.com/video/a-woman-writing-8256349/",
+          "creator": "ArtHouse Studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 23.0
+        },
+        {
+          "pexels_id": 10374906,
+          "file": "visuals/scene_50/pexels_10374906.mp4",
+          "url": "https://www.pexels.com/video/man-bored-while-working-on-laptop-10374906/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        }
+      ]
+    },
+    {
+      "scene_id": "51",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 322.44,
+      "end": 330.096,
+      "duration": 7.656,
+      "visual_query": "small team discussing a new online service",
+      "query": "small team discussing a new online service",
+      "videos": [
+        {
+          "pexels_id": 7706621,
+          "file": "visuals/scene_51/pexels_7706621.mp4",
+          "url": "https://www.pexels.com/video/people-working-on-laptops-7706621/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 32.0
+        },
+        {
+          "pexels_id": 6829145,
+          "file": "visuals/scene_51/pexels_6829145.mp4",
+          "url": "https://www.pexels.com/video/people-discussing-business-plans-6829145/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "52",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 330.096,
+      "end": 337.101,
+      "duration": 7.005,
+      "visual_query": "creator finishing a project and reviewing the result",
+      "query": "creator finishing a project and reviewing the result",
+      "videos": [
+        {
+          "pexels_id": 7646442,
+          "file": "visuals/scene_52/pexels_7646442.mp4",
+          "url": "https://www.pexels.com/video/a-man-looking-at-the-documents-7646442/",
+          "creator": "Alena Darmel",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 9617513,
+          "file": "visuals/scene_52/pexels_9617513.mp4",
+          "url": "https://www.pexels.com/video/architect-looking-at-design-on-large-sheet-of-paper-9617513/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 23.0
+        }
+      ]
+    },
+    {
+      "scene_id": "53",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 337.101,
+      "end": 343.87,
+      "duration": 6.769,
+      "visual_query": "Discord server activity feed with member avatars",
+      "query": "Discord server activity feed with member avatars",
+      "videos": [
+        {
+          "pexels_id": 10620281,
+          "file": "visuals/scene_53/pexels_10620281.mp4",
+          "url": "https://www.pexels.com/video/man-gaming-on-computer-at-night-10620281/",
+          "creator": "Tom Shutkin",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 7849767,
+          "file": "visuals/scene_53/pexels_7849767.mp4",
+          "url": "https://www.pexels.com/video/man-drinking-water-7849767/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "54",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 343.87,
+      "end": 348.096,
+      "duration": 4.226,
+      "visual_query": "Live video chat of community members sharing screens",
+      "query": "Live video chat of community members sharing screens",
+      "videos": [
+        {
+          "pexels_id": 5899472,
+          "file": "visuals/scene_54/pexels_5899472.mp4",
+          "url": "https://www.pexels.com/video/people-on-a-video-call-5899472/",
+          "creator": "Monstera Production",
+          "width": 4096,
+          "height": 2160,
+          "duration": 26.0
+        },
+        {
+          "pexels_id": 7924422,
+          "file": "visuals/scene_54/pexels_7924422.mp4",
+          "url": "https://www.pexels.com/video/children-on-a-video-call-with-their-grandpa-7924422/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "55",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 348.096,
+      "end": 354.496,
+      "duration": 6.4,
+      "visual_query": "Dashboard view of subscription payments and member growth",
+      "query": "Dashboard view of subscription payments and member growth",
+      "videos": [
+        {
+          "pexels_id": 38133086,
+          "file": "visuals/scene_55/pexels_38133086.mp4",
+          "url": "https://www.pexels.com/video/dynamic-cryptocurrency-market-analytics-38133086/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 28.0
+        },
+        {
+          "pexels_id": 38771101,
+          "file": "visuals/scene_55/pexels_38771101.mp4",
+          "url": "https://www.pexels.com/video/interactive-crypto-market-analysis-display-38771101/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 29.0
+        }
+      ]
+    },
+    {
+      "scene_id": "56",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 354.496,
+      "end": 360.176,
+      "duration": 5.68,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 6828871,
+          "file": "visuals/scene_56/pexels_6828871.mp4",
+          "url": "https://www.pexels.com/video/a-man-working-on-a-laptop-6828871/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 10374956,
+          "file": "visuals/scene_56/pexels_10374956.mp4",
+          "url": "https://www.pexels.com/video/man-sitting-by-table-and-working-on-laptop-10374956/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "57",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 360.176,
+      "end": 364.176,
+      "duration": 4.0,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 7507722,
+          "file": "visuals/scene_57/pexels_7507722.mp4",
+          "url": "https://www.pexels.com/video/team-clapping-their-hands-while-having-a-meeting-7507722/",
+          "creator": "Moe Magners",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        },
+        {
+          "pexels_id": 7687649,
+          "file": "visuals/scene_57/pexels_7687649.mp4",
+          "url": "https://www.pexels.com/video/people-discussing-while-looking-at-the-laptop-7687649/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "58",
+      "type": "section_card",
+      "visual_type": "section_card",
+      "start": 364.176,
+      "end": 366.376,
+      "duration": 2.2,
+      "visual_query": "Low‑Code Micro‑SaaS",
+      "query": "Low‑Code Micro‑SaaS",
+      "videos": []
+    },
+    {
+      "scene_id": "59",
+      "type": "point",
+      "visual_type": "point",
+      "start": 366.376,
+      "end": 373.376,
+      "duration": 7.0,
+      "visual_query": "No‑code builder canvas with drag‑and‑drop components",
+      "query": "No‑code builder canvas with drag‑and‑drop components",
+      "videos": []
+    },
+    {
+      "scene_id": "60",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 373.376,
+      "end": 380.073,
+      "duration": 6.697,
+      "visual_query": "Developer testing a web app on a tablet screen",
+      "query": "Developer testing a web app on a tablet screen",
+      "videos": [
+        {
+          "pexels_id": 11274341,
+          "file": "visuals/scene_60/pexels_11274341.mp4",
+          "url": "https://www.pexels.com/video/close-up-of-a-computer-screen-with-javascript-code-11274341/",
+          "creator": "Raddy",
+          "width": 3840,
+          "height": 2160,
+          "duration": 28.0
+        },
+        {
+          "pexels_id": 32536795,
+          "file": "visuals/scene_60/pexels_32536795.mp4",
+          "url": "https://www.pexels.com/video/digital-checklist-completion-on-tablet-device-32536795/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "61",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 380.073,
+      "end": 386.769,
+      "duration": 6.696,
+      "visual_query": "Analytics chart showing rising subscription revenue",
+      "query": "Analytics chart showing rising subscription revenue",
+      "videos": [
+        {
+          "pexels_id": 39563862,
+          "file": "visuals/scene_61/pexels_39563862.mp4",
+          "url": "https://www.pexels.com/video/revenue-growth-with-financial-success-icons-39563862/",
+          "creator": "Pixzel Studio",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 34170258,
+          "file": "visuals/scene_61/pexels_34170258.mp4",
+          "url": "https://www.pexels.com/video/digital-tablet-with-stylus-in-business-workspace-34170258/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "62",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 386.769,
+      "end": 393.466,
+      "duration": 6.697,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 5970593,
+          "file": "visuals/scene_62/pexels_5970593.mp4",
+          "url": "https://www.pexels.com/video/person-typing-on-a-laptop-5970593/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 8033127,
+          "file": "visuals/scene_62/pexels_8033127.mp4",
+          "url": "https://www.pexels.com/video/people-working-in-the-office-8033127/",
+          "creator": "Edmond Dantès",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "63",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 393.466,
+      "end": 400.163,
+      "duration": 6.697,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 6914896,
+          "file": "visuals/scene_63/pexels_6914896.mp4",
+          "url": "https://www.pexels.com/video/co-workers-discussing-ideas-6914896/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 23.0
+        },
+        {
+          "pexels_id": 3251898,
+          "file": "visuals/scene_63/pexels_3251898.mp4",
+          "url": "https://www.pexels.com/video/people-discussing-information-and-data-in-a-meeting-3251898/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "64",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 400.163,
+      "end": 406.86,
+      "duration": 6.697,
+      "visual_query": "modern office computer",
+      "query": "modern office computer",
+      "videos": [
+        {
+          "pexels_id": 3256544,
+          "file": "visuals/scene_64/pexels_3256544.mp4",
+          "url": "https://www.pexels.com/video/group-of-people-around-a-wooden-table-talking-while-working-3256544/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 8347249,
+          "file": "visuals/scene_64/pexels_8347249.mp4",
+          "url": "https://www.pexels.com/video/computer-and-gadgets-in-a-office-8347249/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "65",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 406.86,
+      "end": 414.888,
+      "duration": 8.028,
+      "visual_query": "person working online business",
+      "query": "person working online business",
+      "videos": [
+        {
+          "pexels_id": 7287771,
+          "file": "visuals/scene_65/pexels_7287771.mp4",
+          "url": "https://www.pexels.com/video/man-using-bubble-wrap-in-packaging-7287771/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 7287514,
+          "file": "visuals/scene_65/pexels_7287514.mp4",
+          "url": "https://www.pexels.com/video/woman-busy-writing-online-order-7287514/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        }
+      ]
+    },
+    {
+      "scene_id": "66",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 414.888,
+      "end": 420.253,
+      "duration": 5.365,
+      "visual_query": "digital entrepreneur",
+      "query": "digital entrepreneur",
+      "videos": [
+        {
+          "pexels_id": 10374962,
+          "file": "visuals/scene_66/pexels_10374962.mp4",
+          "url": "https://www.pexels.com/video/man-in-his-desk-looking-at-camera-10374962/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        },
+        {
+          "pexels_id": 8643569,
+          "file": "visuals/scene_66/pexels_8643569.mp4",
+          "url": "https://www.pexels.com/video/man-using-a-laptop-looking-at-the-camera-8643569/",
+          "creator": "Edmond Dantès",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "67",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 420.253,
+      "end": 426.95,
+      "duration": 6.697,
+      "visual_query": "close up hands planning a digital product on paper",
+      "query": "close up hands planning a digital product on paper",
+      "videos": [
+        {
+          "pexels_id": 9056442,
+          "file": "visuals/scene_67/pexels_9056442.mp4",
+          "url": "https://www.pexels.com/video/person-looking-at-documents-9056442/",
+          "creator": "SHVETS production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 7651685,
+          "file": "visuals/scene_67/pexels_7651685.mp4",
+          "url": "https://www.pexels.com/video/woman-writing-on-the-sticky-notes-7651685/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "68",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 426.95,
+      "end": 433.647,
+      "duration": 6.697,
+      "visual_query": "creator reviewing a project at a modern desk",
+      "query": "creator reviewing a project at a modern desk",
+      "videos": [
+        {
+          "pexels_id": 5280031,
+          "file": "visuals/scene_68/pexels_5280031.mp4",
+          "url": "https://www.pexels.com/video/a-man-typing-on-his-laptop-5280031/",
+          "creator": "Monstera Production",
+          "width": 4096,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 5273841,
+          "file": "visuals/scene_68/pexels_5273841.mp4",
+          "url": "https://www.pexels.com/video/a-man-working-on-his-laptop-5273841/",
+          "creator": "Monstera Production",
+          "width": 4096,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "69",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 433.647,
+      "end": 440.343,
+      "duration": 6.696,
+      "visual_query": "small business owner checking customer feedback",
+      "query": "small business owner checking customer feedback",
+      "videos": [
+        {
+          "pexels_id": 7855741,
+          "file": "visuals/scene_69/pexels_7855741.mp4",
+          "url": "https://www.pexels.com/video/two-women-using-smartphone-and-laptop-while-talking-together-7855741/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 7288141,
+          "file": "visuals/scene_69/pexels_7288141.mp4",
+          "url": "https://www.pexels.com/video/woman-wrapping-shirt-on-paper-7288141/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 20.0
+        }
+      ]
+    },
+    {
+      "scene_id": "70",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 440.343,
+      "end": 447.04,
+      "duration": 6.697,
+      "visual_query": "freelancer organizing deliverables in a home office",
+      "query": "freelancer organizing deliverables in a home office",
+      "videos": [
+        {
+          "pexels_id": 5125955,
+          "file": "visuals/scene_70/pexels_5125955.mp4",
+          "url": "https://www.pexels.com/video/man-writing-on-a-notebook-5125955/",
+          "creator": "james",
+          "width": 4096,
+          "height": 2160,
+          "duration": 41.0
+        },
+        {
+          "pexels_id": 9056439,
+          "file": "visuals/scene_70/pexels_9056439.mp4",
+          "url": "https://www.pexels.com/video/person-working-while-in-bed-9056439/",
+          "creator": "SHVETS production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 26.0
+        }
+      ]
+    },
+    {
+      "scene_id": "71",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 447.04,
+      "end": 453.737,
+      "duration": 6.697,
+      "visual_query": "professional comparing options on a laptop",
+      "query": "professional comparing options on a laptop",
+      "videos": [
+        {
+          "pexels_id": 7651614,
+          "file": "visuals/scene_71/pexels_7651614.mp4",
+          "url": "https://www.pexels.com/video/male-employee-working-on-his-laptop-7651614/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 7550637,
+          "file": "visuals/scene_71/pexels_7550637.mp4",
+          "url": "https://www.pexels.com/video/a-woman-standing-while-holding-a-laptop-7550637/",
+          "creator": "Hanna Pad",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "72",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 453.737,
+      "end": 460.433,
+      "duration": 6.696,
+      "visual_query": "creator preparing a product for online customers",
+      "query": "creator preparing a product for online customers",
+      "videos": [
+        {
+          "pexels_id": 7855139,
+          "file": "visuals/scene_72/pexels_7855139.mp4",
+          "url": "https://www.pexels.com/video/woman-putting-tape-on-a-box-7855139/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 7855149,
+          "file": "visuals/scene_72/pexels_7855149.mp4",
+          "url": "https://www.pexels.com/video/a-seller-preparing-clothes-for-packing-7855149/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        }
+      ]
+    },
+    {
+      "scene_id": "73",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 460.433,
+      "end": 466.896,
+      "duration": 6.463,
+      "visual_query": "business owner writing a weekly action plan",
+      "query": "business owner writing a weekly action plan",
+      "videos": [
+        {
+          "pexels_id": 7429480,
+          "file": "visuals/scene_73/pexels_7429480.mp4",
+          "url": "https://www.pexels.com/video/person-writing-on-pink-sticky-notes-7429480/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 24.0
+        },
+        {
+          "pexels_id": 5717288,
+          "file": "visuals/scene_73/pexels_5717288.mp4",
+          "url": "https://www.pexels.com/video/a-person-writing-notes-on-a-planner-5717288/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 23.0
+        }
+      ]
+    },
+    {
+      "scene_id": "74",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 466.896,
+      "end": 473.664,
+      "duration": 6.768,
+      "visual_query": "close up hands typing at a clean workstation",
+      "query": "close up hands typing at a clean workstation",
+      "videos": [
+        {
+          "pexels_id": 7534475,
+          "file": "visuals/scene_74/pexels_7534475.mp4",
+          "url": "https://www.pexels.com/video/close-up-video-of-a-person-using-a-laptop-7534475/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 30.0
+        },
+        {
+          "pexels_id": 9573750,
+          "file": "visuals/scene_74/pexels_9573750.mp4",
+          "url": "https://www.pexels.com/video/close-up-of-a-person-typing-on-a-keyboard-9573750/",
+          "creator": "Tima Miroshnichenko",
+          "width": 4096,
+          "height": 2160,
+          "duration": 23.0
+        }
+      ]
+    },
+    {
+      "scene_id": "75",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 473.664,
+      "end": 481.008,
+      "duration": 7.344,
+      "visual_query": "entrepreneur reviewing work beside a notebook",
+      "query": "entrepreneur reviewing work beside a notebook",
+      "videos": [
+        {
+          "pexels_id": 8344130,
+          "file": "visuals/scene_75/pexels_8344130.mp4",
+          "url": "https://www.pexels.com/video/person-taking-notes-from-a-chart-8344130/",
+          "creator": "Pavel Danilyuk",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        },
+        {
+          "pexels_id": 6930825,
+          "file": "visuals/scene_75/pexels_6930825.mp4",
+          "url": "https://www.pexels.com/video/beautiful-woman-using-a-laptop-6930825/",
+          "creator": "Mikhail Nilov",
+          "width": 3840,
+          "height": 2160,
+          "duration": 20.0
+        }
+      ]
+    },
+    {
+      "scene_id": "76",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 481.008,
+      "end": 487.22,
+      "duration": 6.212,
+      "visual_query": "person organizing digital files on a computer",
+      "query": "person organizing digital files on a computer",
+      "videos": [
+        {
+          "pexels_id": 5970703,
+          "file": "visuals/scene_76/pexels_5970703.mp4",
+          "url": "https://www.pexels.com/video/person-working-at-home-5970703/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 26.0
+        },
+        {
+          "pexels_id": 34577539,
+          "file": "visuals/scene_76/pexels_34577539.mp4",
+          "url": "https://www.pexels.com/video/professional-video-editing-on-laptop-34577539/",
+          "creator": "Florian Delée",
+          "width": 3840,
+          "height": 2160,
+          "duration": 22.0
+        }
+      ]
+    },
+    {
+      "scene_id": "77",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 487.22,
+      "end": 493.917,
+      "duration": 6.697,
+      "visual_query": "small team discussing a new online service",
+      "query": "small team discussing a new online service",
+      "videos": [
+        {
+          "pexels_id": 6914400,
+          "file": "visuals/scene_77/pexels_6914400.mp4",
+          "url": "https://www.pexels.com/video/co-workers-discussing-ideas-6914400/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 30.0
+        },
+        {
+          "pexels_id": 35923202,
+          "file": "visuals/scene_77/pexels_35923202.mp4",
+          "url": "https://www.pexels.com/video/community-health-workers-in-a-clinic-setting-35923202/",
+          "creator": "Andy Coffie",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "78",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 493.917,
+      "end": 500.614,
+      "duration": 6.697,
+      "visual_query": "creator finishing a project and reviewing the result",
+      "query": "creator finishing a project and reviewing the result",
+      "videos": [
+        {
+          "pexels_id": 6615431,
+          "file": "visuals/scene_78/pexels_6615431.mp4",
+          "url": "https://www.pexels.com/video/person-working-in-architecture-project-6615431/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 8779806,
+          "file": "visuals/scene_78/pexels_8779806.mp4",
+          "url": "https://www.pexels.com/video/an-architect-checking-his-drawing-while-looking-at-his-work-8779806/",
+          "creator": "Gustavo Fring",
+          "width": 4096,
+          "height": 2160,
+          "duration": 26.0
+        }
+      ]
+    },
+    {
+      "scene_id": "79",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 500.614,
+      "end": 507.311,
+      "duration": 6.697,
+      "visual_query": "No‑code builder canvas with drag‑and‑drop components",
+      "query": "No‑code builder canvas with drag‑and‑drop components",
+      "videos": [
+        {
+          "pexels_id": 31575751,
+          "file": "visuals/scene_79/pexels_31575751.mp4",
+          "url": "https://www.pexels.com/video/engineering-software-on-computer-screen-in-lab-31575751/",
+          "creator": "Allan González",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 28561340,
+          "file": "visuals/scene_79/pexels_28561340.mp4",
+          "url": "https://www.pexels.com/video/vibrant-abstract-liquid-background-animation-28561340/",
+          "creator": "Chandresh Uike",
+          "width": 3840,
+          "height": 2160,
+          "duration": 20.0
+        }
+      ]
+    },
+    {
+      "scene_id": "80",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 507.311,
+      "end": 514.007,
+      "duration": 6.696,
+      "visual_query": "Developer testing a web app on a tablet screen",
+      "query": "Developer testing a web app on a tablet screen",
+      "videos": [
+        {
+          "pexels_id": 9588289,
+          "file": "visuals/scene_80/pexels_9588289.mp4",
+          "url": "https://www.pexels.com/video/close-up-video-of-a-person-opening-a-book-9588289/",
+          "creator": "Morthy Jameson",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        },
+        {
+          "pexels_id": 3253077,
+          "file": "visuals/scene_80/pexels_3253077.mp4",
+          "url": "https://www.pexels.com/video/people-using-an-electronic-smart-pad-3253077/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "81",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 514.007,
+      "end": 520.704,
+      "duration": 6.697,
+      "visual_query": "Analytics chart showing rising subscription revenue",
+      "query": "Analytics chart showing rising subscription revenue",
+      "videos": [
+        {
+          "pexels_id": 35771123,
+          "file": "visuals/scene_81/pexels_35771123.mp4",
+          "url": "https://www.pexels.com/video/professional-analyzing-financial-data-at-desk-35771123/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 35771214,
+          "file": "visuals/scene_81/pexels_35771214.mp4",
+          "url": "https://www.pexels.com/video/analyzing-financial-data-with-smartphone-and-monitors-35771214/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        }
+      ]
+    },
+    {
+      "scene_id": "82",
+      "type": "section_card",
+      "visual_type": "section_card",
+      "start": 520.704,
+      "end": 522.904,
+      "duration": 2.2,
+      "visual_query": "Digital Prompt & Template Marketplaces",
+      "query": "Digital Prompt & Template Marketplaces",
+      "videos": []
+    },
+    {
+      "scene_id": "83",
+      "type": "point",
+      "visual_type": "point",
+      "start": 522.904,
+      "end": 529.904,
+      "duration": 7.0,
+      "visual_query": "Designer assembling prompt list on a computer monitor",
+      "query": "Designer assembling prompt list on a computer monitor",
+      "videos": []
+    },
+    {
+      "scene_id": "84",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 529.904,
+      "end": 536.632,
+      "duration": 6.728,
+      "visual_query": "Marketplace product page displaying digital asset bundles",
+      "query": "Marketplace product page displaying digital asset bundles",
+      "videos": [
+        {
+          "pexels_id": 5700371,
+          "file": "visuals/scene_84/pexels_5700371.mp4",
+          "url": "https://www.pexels.com/video/person-scrolling-through-an-online-application-5700371/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 38642320,
+          "file": "visuals/scene_84/pexels_38642320.mp4",
+          "url": "https://www.pexels.com/video/dynamic-cryptocurrency-trading-setup-display-38642320/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 40.0
+        }
+      ]
+    },
+    {
+      "scene_id": "85",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 536.632,
+      "end": 543.359,
+      "duration": 6.727,
+      "visual_query": "Animated montage of AI‑generated images from sold prompts",
+      "query": "Animated montage of AI‑generated images from sold prompts",
+      "videos": [
+        {
+          "pexels_id": 18069785,
+          "file": "visuals/scene_85/pexels_18069785.mp4",
+          "url": "https://www.pexels.com/video/an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-the-potential-of-ai-for-society-through-3d-visualisations-it-was-created-by-novoto-studio-as-part-of-th-18069785/",
+          "creator": "Google DeepMind",
+          "width": 3840,
+          "height": 2160,
+          "duration": 37.0
+        },
+        {
+          "pexels_id": 30064797,
+          "file": "visuals/scene_85/pexels_30064797.mp4",
+          "url": "https://www.pexels.com/video/futuristic-digital-explosion-animation-30064797/",
+          "creator": "Pachon in Motion",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "86",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 543.359,
+      "end": 550.087,
+      "duration": 6.728,
+      "visual_query": "developer working with artificial intelligence",
+      "query": "developer working with artificial intelligence",
+      "videos": [
+        {
+          "pexels_id": 8266175,
+          "file": "visuals/scene_86/pexels_8266175.mp4",
+          "url": "https://www.pexels.com/video/a-bearded-man-with-projection-on-his-face-8266175/",
+          "creator": "ArtHouse Studio",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 5474270,
+          "file": "visuals/scene_86/pexels_5474270.mp4",
+          "url": "https://www.pexels.com/video/reflection-of-codes-in-the-face-of-a-man-5474270/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "87",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 550.087,
+      "end": 556.815,
+      "duration": 6.728,
+      "visual_query": "person typing laptop office",
+      "query": "person typing laptop office",
+      "videos": [
+        {
+          "pexels_id": 4928295,
+          "file": "visuals/scene_87/pexels_4928295.mp4",
+          "url": "https://www.pexels.com/video/person-typing-on-a-laptop-4928295/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 21.0
+        },
+        {
+          "pexels_id": 9130352,
+          "file": "visuals/scene_87/pexels_9130352.mp4",
+          "url": "https://www.pexels.com/video/a-person-using-laptop-9130352/",
+          "creator": "Dario Fernandez Ruz",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "88",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 556.815,
+      "end": 562.536,
+      "duration": 5.721,
+      "visual_query": "client meeting technology consultant",
+      "query": "client meeting technology consultant",
+      "videos": [
+        {
+          "pexels_id": 8814715,
+          "file": "visuals/scene_88/pexels_8814715.mp4",
+          "url": "https://www.pexels.com/video/real-estate-agent-talking-to-his-clients-8814715/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 8814720,
+          "file": "visuals/scene_88/pexels_8814720.mp4",
+          "url": "https://www.pexels.com/video/realtor-talking-to-his-client-using-digital-tablet-8814720/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "89",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 562.536,
+      "end": 570.27,
+      "duration": 7.734,
+      "visual_query": "software developer computer screen",
+      "query": "software developer computer screen",
+      "videos": [
+        {
+          "pexels_id": 8480293,
+          "file": "visuals/scene_89/pexels_8480293.mp4",
+          "url": "https://www.pexels.com/video/a-man-using-a-computer-8480293/",
+          "creator": "ArtHouse Studio",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        },
+        {
+          "pexels_id": 8632602,
+          "file": "visuals/scene_89/pexels_8632602.mp4",
+          "url": "https://www.pexels.com/video/people-programming-on-a-computer-8632602/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "90",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 570.27,
+      "end": 576.998,
+      "duration": 6.728,
+      "visual_query": "business technology consulting",
+      "query": "business technology consulting",
+      "videos": [
+        {
+          "pexels_id": 8136059,
+          "file": "visuals/scene_90/pexels_8136059.mp4",
+          "url": "https://www.pexels.com/video/layers-talking-to-one-another-and-showing-a-tablet-8136059/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 21.0
+        },
+        {
+          "pexels_id": 8478953,
+          "file": "visuals/scene_90/pexels_8478953.mp4",
+          "url": "https://www.pexels.com/video/people-using-digital-tablet-8478953/",
+          "creator": "ArtHouse Studio",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "91",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 576.998,
+      "end": 583.725,
+      "duration": 6.727,
+      "visual_query": "AI prompt interface computer",
+      "query": "AI prompt interface computer",
+      "videos": [
+        {
+          "pexels_id": 25744122,
+          "file": "visuals/scene_91/pexels_25744122.mp4",
+          "url": "https://www.pexels.com/video/an-artist-s-illustration-of-artificial-intelligence-ai-this-image-explores-ai-generated-media-can-be-watermarked-it-was-created-by-zunc-studio-as-part-of-the-visualising-ai-project-lau-25744122/",
+          "creator": "Google DeepMind",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 37013442,
+          "file": "visuals/scene_91/pexels_37013442.mp4",
+          "url": "https://www.pexels.com/video/futuristic-circuit-board-animation-37013442/",
+          "creator": "Chandresh Uike",
+          "width": 3840,
+          "height": 2160,
+          "duration": 20.0
+        }
+      ]
+    },
+    {
+      "scene_id": "92",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 583.725,
+      "end": 588.648,
+      "duration": 4.923,
+      "visual_query": "business owner using AI automation",
+      "query": "business owner using AI automation",
+      "videos": [
+        {
+          "pexels_id": 8327784,
+          "file": "visuals/scene_92/pexels_8327784.mp4",
+          "url": "https://www.pexels.com/video/robot-giving-a-flower-to-a-woman-8327784/",
+          "creator": "Pavel Danilyuk",
+          "width": 3840,
+          "height": 2160,
+          "duration": 22.0
+        },
+        {
+          "pexels_id": 36465186,
+          "file": "visuals/scene_92/pexels_36465186.mp4",
+          "url": "https://www.pexels.com/video/innovative-robotic-coffee-machine-in-action-36465186/",
+          "creator": "LayG Traveller",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "93",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 588.648,
+      "end": 597.181,
+      "duration": 8.533,
+      "visual_query": "consultant explaining an automation workflow to a client",
+      "query": "consultant explaining an automation workflow to a client",
+      "videos": [
+        {
+          "pexels_id": 8814722,
+          "file": "visuals/scene_93/pexels_8814722.mp4",
+          "url": "https://www.pexels.com/video/realtor-explaining-to-his-client-using-digital-tablet-8814722/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        },
+        {
+          "pexels_id": 8061602,
+          "file": "visuals/scene_93/pexels_8061602.mp4",
+          "url": "https://www.pexels.com/video/man-talking-to-the-couple-while-explaining-the-contract-8061602/",
+          "creator": "Pavel Danilyuk",
+          "width": 3840,
+          "height": 2160,
+          "duration": 23.0
+        }
+      ]
+    },
+    {
+      "scene_id": "94",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 597.181,
+      "end": 603.908,
+      "duration": 6.727,
+      "visual_query": "developer testing an AI assistant at a workstation",
+      "query": "developer testing an AI assistant at a workstation",
+      "videos": [
+        {
+          "pexels_id": 7706643,
+          "file": "visuals/scene_94/pexels_7706643.mp4",
+          "url": "https://www.pexels.com/video/call-center-representatives-working-in-the-office-7706643/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 7707065,
+          "file": "visuals/scene_94/pexels_7707065.mp4",
+          "url": "https://www.pexels.com/video/call-center-representatives-working-in-the-office-7707065/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 22.0
+        }
+      ]
+    },
+    {
+      "scene_id": "95",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 603.908,
+      "end": 610.636,
+      "duration": 6.728,
+      "visual_query": "business team reviewing a customer support process",
+      "query": "business team reviewing a customer support process",
+      "videos": [
+        {
+          "pexels_id": 7706759,
+          "file": "visuals/scene_95/pexels_7706759.mp4",
+          "url": "https://www.pexels.com/video/people-working-on-a-office-7706759/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 24.0
+        },
+        {
+          "pexels_id": 7706979,
+          "file": "visuals/scene_95/pexels_7706979.mp4",
+          "url": "https://www.pexels.com/video/call-center-agents-working-7706979/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 20.0
+        }
+      ]
+    },
+    {
+      "scene_id": "96",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 610.636,
+      "end": 617.364,
+      "duration": 6.728,
+      "visual_query": "freelancer documenting reusable instructions on a laptop",
+      "query": "freelancer documenting reusable instructions on a laptop",
+      "videos": [
+        {
+          "pexels_id": 9056753,
+          "file": "visuals/scene_96/pexels_9056753.mp4",
+          "url": "https://www.pexels.com/video/a-man-typing-on-laptop-while-holding-papers-9056753/",
+          "creator": "SHVETS production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 29.0
+        },
+        {
+          "pexels_id": 9056438,
+          "file": "visuals/scene_96/pexels_9056438.mp4",
+          "url": "https://www.pexels.com/video/a-woman-typing-and-reading-documents-while-in-bed-9056438/",
+          "creator": "SHVETS production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        }
+      ]
+    },
+    {
+      "scene_id": "97",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 617.364,
+      "end": 621.768,
+      "duration": 4.404,
+      "visual_query": "close up hands reviewing code in an editor",
+      "query": "close up hands reviewing code in an editor",
+      "videos": [
+        {
+          "pexels_id": 10224042,
+          "file": "visuals/scene_97/pexels_10224042.mp4",
+          "url": "https://www.pexels.com/video/close-up-video-of-a-person-using-a-laptop-10224042/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 15.0
+        },
+        {
+          "pexels_id": 13522169,
+          "file": "visuals/scene_97/pexels_13522169.mp4",
+          "url": "https://www.pexels.com/video/close-up-of-programming-13522169/",
+          "creator": "Raddy",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        }
+      ]
+    },
+    {
+      "scene_id": "98",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 621.768,
+      "end": 627.768,
+      "duration": 6.0,
+      "visual_query": "consultant taking notes during a client discovery meeting",
+      "query": "consultant taking notes during a client discovery meeting",
+      "videos": [
+        {
+          "pexels_id": 7698451,
+          "file": "visuals/scene_98/pexels_7698451.mp4",
+          "url": "https://www.pexels.com/video/a-woman-talking-and-taking-notes-7698451/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 25.0
+        },
+        {
+          "pexels_id": 5971457,
+          "file": "visuals/scene_98/pexels_5971457.mp4",
+          "url": "https://www.pexels.com/video/a-person-handing-the-documents-to-a-client-5971457/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "99",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 627.768,
+      "end": 636.24,
+      "duration": 8.472,
+      "visual_query": "customer support agent working with an AI tool",
+      "query": "customer support agent working with an AI tool",
+      "videos": [
+        {
+          "pexels_id": 5452828,
+          "file": "visuals/scene_99/pexels_5452828.mp4",
+          "url": "https://www.pexels.com/video/female-customer-support-agent-talking-to-client-5452828/",
+          "creator": "Tima Miroshnichenko",
+          "width": 3840,
+          "height": 2160,
+          "duration": 23.0
+        },
+        {
+          "pexels_id": 7706616,
+          "file": "visuals/scene_99/pexels_7706616.mp4",
+          "url": "https://www.pexels.com/video/a-call-center-representative-working-7706616/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 40.0
+        }
+      ]
+    },
+    {
+      "scene_id": "100",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 636.24,
+      "end": 642.528,
+      "duration": 6.288,
+      "visual_query": "developer comparing test results on two monitors",
+      "query": "developer comparing test results on two monitors",
+      "videos": [
+        {
+          "pexels_id": 7088943,
+          "file": "visuals/scene_100/pexels_7088943.mp4",
+          "url": "https://www.pexels.com/video/a-sonographer-supervising-a-procedure-7088943/",
+          "creator": "MART  PRODUCTION",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 6804123,
+          "file": "visuals/scene_100/pexels_6804123.mp4",
+          "url": "https://www.pexels.com/video/working-men-in-the-office-6804123/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 52.0
+        }
+      ]
+    },
+    {
+      "scene_id": "101",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 642.528,
+      "end": 651.002,
+      "duration": 8.474,
+      "visual_query": "small business owner discussing workflow improvements",
+      "query": "small business owner discussing workflow improvements",
+      "videos": [
+        {
+          "pexels_id": 34239076,
+          "file": "visuals/scene_101/pexels_34239076.mp4",
+          "url": "https://www.pexels.com/video/hands-writing-on-tablet-with-coding-screen-34239076/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 8170422,
+          "file": "visuals/scene_101/pexels_8170422.mp4",
+          "url": "https://www.pexels.com/video/people-having-a-meeting-in-the-office-8170422/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "102",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 651.002,
+      "end": 657.73,
+      "duration": 6.728,
+      "visual_query": "professional presenting a process diagram to colleagues",
+      "query": "professional presenting a process diagram to colleagues",
+      "videos": [
+        {
+          "pexels_id": 9034455,
+          "file": "visuals/scene_102/pexels_9034455.mp4",
+          "url": "https://www.pexels.com/video/man-presenting-at-a-meeting-9034455/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        },
+        {
+          "pexels_id": 7687707,
+          "file": "visuals/scene_102/pexels_7687707.mp4",
+          "url": "https://www.pexels.com/video/people-planning-a-marketing-strategy-7687707/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "103",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 657.73,
+      "end": 664.457,
+      "duration": 6.727,
+      "visual_query": "freelancer organizing project deliverables at a desk",
+      "query": "freelancer organizing project deliverables at a desk",
+      "videos": [
+        {
+          "pexels_id": 8279161,
+          "file": "visuals/scene_103/pexels_8279161.mp4",
+          "url": "https://www.pexels.com/video/a-fashion-editor-typing-on-laptop-while-looking-at-a-magazine-8279161/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 7882751,
+          "file": "visuals/scene_103/pexels_7882751.mp4",
+          "url": "https://www.pexels.com/video/young-woman-working-from-home-7882751/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        }
+      ]
+    },
+    {
+      "scene_id": "104",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 664.457,
+      "end": 671.185,
+      "duration": 6.728,
+      "visual_query": "team collaborating around a laptop in a modern office",
+      "query": "team collaborating around a laptop in a modern office",
+      "videos": [
+        {
+          "pexels_id": 3251811,
+          "file": "visuals/scene_104/pexels_3251811.mp4",
+          "url": "https://www.pexels.com/video/group-of-people-discussing-about-the-information-they-have-on-the-laptop-3251811/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 3254009,
+          "file": "visuals/scene_104/pexels_3254009.mp4",
+          "url": "https://www.pexels.com/video/a-group-gathering-on-a-counter-table-looking-at-a-laptop-3254009/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        }
+      ]
+    },
+    {
+      "scene_id": "105",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 671.185,
+      "end": 677.913,
+      "duration": 6.728,
+      "visual_query": "Designer assembling prompt list on a computer monitor",
+      "query": "Designer assembling prompt list on a computer monitor",
+      "videos": [
+        {
+          "pexels_id": 6804119,
+          "file": "visuals/scene_105/pexels_6804119.mp4",
+          "url": "https://www.pexels.com/video/a-man-placing-sticky-notes-on-the-brick-wall-6804119/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 39.0
+        },
+        {
+          "pexels_id": 33439135,
+          "file": "visuals/scene_105/pexels_33439135.mp4",
+          "url": "https://www.pexels.com/video/frustrated-developer-revising-project-plans-on-tablet-33439135/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "106",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 677.913,
+      "end": 684.64,
+      "duration": 6.727,
+      "visual_query": "Marketplace product page displaying digital asset bundles",
+      "query": "Marketplace product page displaying digital asset bundles",
+      "videos": [
+        {
+          "pexels_id": 38358368,
+          "file": "visuals/scene_106/pexels_38358368.mp4",
+          "url": "https://www.pexels.com/video/dynamic-cryptocurrency-market-chart-analysis-38358368/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 24.0
+        },
+        {
+          "pexels_id": 38455627,
+          "file": "visuals/scene_106/pexels_38455627.mp4",
+          "url": "https://www.pexels.com/video/stock-market-analysis-on-computer-screens-38455627/",
+          "creator": "Rafael Minguet Delgado",
+          "width": 3840,
+          "height": 2160,
+          "duration": 21.0
+        }
+      ]
+    },
+    {
+      "scene_id": "107",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 684.64,
+      "end": 691.368,
+      "duration": 6.728,
+      "visual_query": "Animated montage of AI‑generated images from sold prompts",
+      "query": "Animated montage of AI‑generated images from sold prompts",
+      "videos": [
+        {
+          "pexels_id": 18069830,
+          "file": "visuals/scene_107/pexels_18069830.mp4",
+          "url": "https://www.pexels.com/video/an-artist-s-animation-of-artificial-intelligence-ai-this-video-depicts-agi-artificial-general-intelligence-s-potential-to-enrich-lives-it-was-created-by-xk-studio-as-part-of-the-visu-18069830/",
+          "creator": "Google DeepMind",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        },
+        {
+          "pexels_id": 25744121,
+          "file": "visuals/scene_107/pexels_25744121.mp4",
+          "url": "https://www.pexels.com/video/an-artist-s-illustration-of-artificial-intelligence-ai-this-video-explores-generative-ai-and-how-it-can-empower-humans-with-creativity-it-was-created-by-winston-duke-as-part-of-the-vis-25744121/",
+          "creator": "Google DeepMind",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        }
+      ]
+    },
+    {
+      "scene_id": "108",
+      "type": "section_card",
+      "visual_type": "section_card",
+      "start": 691.368,
+      "end": 693.568,
+      "duration": 2.2,
+      "visual_query": "Short‑Form Video Brand Partnerships",
+      "query": "Short‑Form Video Brand Partnerships",
+      "videos": []
+    },
+    {
+      "scene_id": "109",
+      "type": "point",
+      "visual_type": "point",
+      "start": 693.568,
+      "end": 700.568,
+      "duration": 7.0,
+      "visual_query": "Creator filming a product demo with a smartphone on a kitchen counter",
+      "query": "Creator filming a product demo with a smartphone on a kitchen counter",
+      "videos": []
+    },
+    {
+      "scene_id": "110",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 700.568,
+      "end": 707.515,
+      "duration": 6.947,
+      "visual_query": "Scrolling TikTok feed showing branded short‑form videos",
+      "query": "Scrolling TikTok feed showing branded short‑form videos",
+      "videos": [
+        {
+          "pexels_id": 32606402,
+          "file": "visuals/scene_110/pexels_32606402.mp4",
+          "url": "https://www.pexels.com/video/smartphone-user-engaged-with-social-media-32606402/",
+          "creator": "Hamim Rony",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 14377165,
+          "file": "visuals/scene_110/pexels_14377165.mp4",
+          "url": "https://www.pexels.com/video/a-person-scrolling-through-the-tiktok-feed-on-a-smartphone-14377165/",
+          "creator": "Murilo Castro",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        }
+      ]
+    },
+    {
+      "scene_id": "111",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 707.515,
+      "end": 714.462,
+      "duration": 6.947,
+      "visual_query": "Overlay graphics displaying earnings per video and affiliate clicks",
+      "query": "Overlay graphics displaying earnings per video and affiliate clicks",
+      "videos": [
+        {
+          "pexels_id": 4936763,
+          "file": "visuals/scene_111/pexels_4936763.mp4",
+          "url": "https://www.pexels.com/video/youtube-subscribe-4936763/",
+          "creator": "Saira Tufail",
+          "width": 3840,
+          "height": 2160,
+          "duration": 5.0
+        },
+        {
+          "pexels_id": 34845719,
+          "file": "visuals/scene_111/pexels_34845719.mp4",
+          "url": "https://www.pexels.com/video/using-effect-controls-in-video-editing-software-34845719/",
+          "creator": "Aamir Somewhere",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "112",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 714.462,
+      "end": 721.409,
+      "duration": 6.947,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 5944871,
+          "file": "visuals/scene_112/pexels_5944871.mp4",
+          "url": "https://www.pexels.com/video/person-working-on-a-computer-laptop-and-drinking-coffee-5944871/",
+          "creator": "Theo  Decker",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        },
+        {
+          "pexels_id": 7262249,
+          "file": "visuals/scene_112/pexels_7262249.mp4",
+          "url": "https://www.pexels.com/video/man-working-remotely-7262249/",
+          "creator": "MART  PRODUCTION",
+          "width": 3840,
+          "height": 2160,
+          "duration": 35.0
+        }
+      ]
+    },
+    {
+      "scene_id": "113",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 721.409,
+      "end": 728.357,
+      "duration": 6.948,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 9305966,
+          "file": "visuals/scene_113/pexels_9305966.mp4",
+          "url": "https://www.pexels.com/video/people-having-a-discussion-at-work-9305966/",
+          "creator": "Monstera Production",
+          "width": 4096,
+          "height": 2160,
+          "duration": 30.0
+        },
+        {
+          "pexels_id": 3253294,
+          "file": "visuals/scene_113/pexels_3253294.mp4",
+          "url": "https://www.pexels.com/video/a-group-of-people-in-discussion-about-a-memo-on-the-board-in-a-business-meeting-3253294/",
+          "creator": "fauxels",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        }
+      ]
+    },
+    {
+      "scene_id": "114",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 728.357,
+      "end": 735.304,
+      "duration": 6.947,
+      "visual_query": "modern office computer",
+      "query": "modern office computer",
+      "videos": [
+        {
+          "pexels_id": 6558616,
+          "file": "visuals/scene_114/pexels_6558616.mp4",
+          "url": "https://www.pexels.com/video/a-computer-on-the-table-6558616/",
+          "creator": "Mikael Blomkvist",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        },
+        {
+          "pexels_id": 14003577,
+          "file": "visuals/scene_114/pexels_14003577.mp4",
+          "url": "https://www.pexels.com/video/video-editing-software-on-computer-screen-14003577/",
+          "creator": "Gilmer Diaz Estela",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        }
+      ]
+    },
+    {
+      "scene_id": "115",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 735.304,
+      "end": 742.251,
+      "duration": 6.947,
+      "visual_query": "person working online business",
+      "query": "person working online business",
+      "videos": [
+        {
+          "pexels_id": 7287525,
+          "file": "visuals/scene_115/pexels_7287525.mp4",
+          "url": "https://www.pexels.com/video/man-busy-taking-orders-by-phone-7287525/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        },
+        {
+          "pexels_id": 12703249,
+          "file": "visuals/scene_115/pexels_12703249.mp4",
+          "url": "https://www.pexels.com/video/a-person-using-a-laptop-12703249/",
+          "creator": "Anna Shvets",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        }
+      ]
+    },
+    {
+      "scene_id": "116",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 742.251,
+      "end": 749.198,
+      "duration": 6.947,
+      "visual_query": "digital entrepreneur",
+      "query": "digital entrepreneur",
+      "videos": [
+        {
+          "pexels_id": 10374911,
+          "file": "visuals/scene_116/pexels_10374911.mp4",
+          "url": "https://www.pexels.com/video/smiling-man-sitting-with-phone-in-hand-10374911/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 3626155,
+          "file": "visuals/scene_116/pexels_3626155.mp4",
+          "url": "https://www.pexels.com/video/man-at-the-coffee-shop-working-on-his-laptop-3626155/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "117",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 749.198,
+      "end": 756.145,
+      "duration": 6.947,
+      "visual_query": "close up hands planning a digital product on paper",
+      "query": "close up hands planning a digital product on paper",
+      "videos": [
+        {
+          "pexels_id": 8529663,
+          "file": "visuals/scene_117/pexels_8529663.mp4",
+          "url": "https://www.pexels.com/video/a-person-writing-on-the-paper-8529663/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 11.0
+        },
+        {
+          "pexels_id": 6774648,
+          "file": "visuals/scene_117/pexels_6774648.mp4",
+          "url": "https://www.pexels.com/video/business-analytics-used-in-a-business-meeting-6774648/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        }
+      ]
+    },
+    {
+      "scene_id": "118",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 756.145,
+      "end": 763.092,
+      "duration": 6.947,
+      "visual_query": "creator reviewing a project at a modern desk",
+      "query": "creator reviewing a project at a modern desk",
+      "videos": [
+        {
+          "pexels_id": 9909325,
+          "file": "visuals/scene_118/pexels_9909325.mp4",
+          "url": "https://www.pexels.com/video/a-woman-reading-a-notebook-9909325/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 30.0
+        },
+        {
+          "pexels_id": 35331902,
+          "file": "visuals/scene_118/pexels_35331902.mp4",
+          "url": "https://www.pexels.com/video/focused-male-editor-working-at-night-desk-35331902/",
+          "creator": "Tom Shutkin",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        }
+      ]
+    },
+    {
+      "scene_id": "119",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 763.092,
+      "end": 770.039,
+      "duration": 6.947,
+      "visual_query": "small business owner checking customer feedback",
+      "query": "small business owner checking customer feedback",
+      "videos": [
+        {
+          "pexels_id": 8428490,
+          "file": "visuals/scene_119/pexels_8428490.mp4",
+          "url": "https://www.pexels.com/video/a-man-delivering-a-crate-of-assorted-fruits-at-a-cafe-8428490/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 37.0
+        },
+        {
+          "pexels_id": 8428462,
+          "file": "visuals/scene_119/pexels_8428462.mp4",
+          "url": "https://www.pexels.com/video/barista-looking-at-the-camera-while-wearing-an-apron-8428462/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 43.0
+        }
+      ]
+    },
+    {
+      "scene_id": "120",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 770.039,
+      "end": 776.986,
+      "duration": 6.947,
+      "visual_query": "freelancer organizing deliverables in a home office",
+      "query": "freelancer organizing deliverables in a home office",
+      "videos": [
+        {
+          "pexels_id": 7287761,
+          "file": "visuals/scene_120/pexels_7287761.mp4",
+          "url": "https://www.pexels.com/video/woman-packing-the-item-in-brown-box-7287761/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 22.0
+        },
+        {
+          "pexels_id": 7287919,
+          "file": "visuals/scene_120/pexels_7287919.mp4",
+          "url": "https://www.pexels.com/video/woman-closing-big-package-7287919/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "121",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 776.986,
+      "end": 782.88,
+      "duration": 5.894,
+      "visual_query": "professional comparing options on a laptop",
+      "query": "professional comparing options on a laptop",
+      "videos": [
+        {
+          "pexels_id": 8632769,
+          "file": "visuals/scene_121/pexels_8632769.mp4",
+          "url": "https://www.pexels.com/video/a-woman-looking-tired-and-burnout-while-working-8632769/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 8348902,
+          "file": "visuals/scene_121/pexels_8348902.mp4",
+          "url": "https://www.pexels.com/video/man-showing-graphs-on-a-laptop-screen-8348902/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "122",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 782.88,
+      "end": 790.272,
+      "duration": 7.392,
+      "visual_query": "creator preparing a product for online customers",
+      "query": "creator preparing a product for online customers",
+      "videos": [
+        {
+          "pexels_id": 7287517,
+          "file": "visuals/scene_122/pexels_7287517.mp4",
+          "url": "https://www.pexels.com/video/package-ready-to-ship-7287517/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 17.0
+        },
+        {
+          "pexels_id": 7855140,
+          "file": "visuals/scene_122/pexels_7855140.mp4",
+          "url": "https://www.pexels.com/video/person-putting-a-product-in-a-box-7855140/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "123",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 790.272,
+      "end": 797.828,
+      "duration": 7.556,
+      "visual_query": "business owner writing a weekly action plan",
+      "query": "business owner writing a weekly action plan",
+      "videos": [
+        {
+          "pexels_id": 6781562,
+          "file": "visuals/scene_123/pexels_6781562.mp4",
+          "url": "https://www.pexels.com/video/person-writing-notes-6781562/",
+          "creator": "Artem Podrez",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 7428839,
+          "file": "visuals/scene_123/pexels_7428839.mp4",
+          "url": "https://www.pexels.com/video/person-writing-on-a-paper-7428839/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 21.0
+        }
+      ]
+    },
+    {
+      "scene_id": "124",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 797.828,
+      "end": 804.775,
+      "duration": 6.947,
+      "visual_query": "close up hands typing at a clean workstation",
+      "query": "close up hands typing at a clean workstation",
+      "videos": [
+        {
+          "pexels_id": 7652751,
+          "file": "visuals/scene_124/pexels_7652751.mp4",
+          "url": "https://www.pexels.com/video/person-typing-on-his-laptop-7652751/",
+          "creator": "ShotPot",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        },
+        {
+          "pexels_id": 4200266,
+          "file": "visuals/scene_124/pexels_4200266.mp4",
+          "url": "https://www.pexels.com/video/hands-desk-internet-typing-4200266/",
+          "creator": "Michelangelo Buonarroti",
+          "width": 3840,
+          "height": 2160,
+          "duration": 6.0
+        }
+      ]
+    },
+    {
+      "scene_id": "125",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 804.775,
+      "end": 811.722,
+      "duration": 6.947,
+      "visual_query": "entrepreneur reviewing work beside a notebook",
+      "query": "entrepreneur reviewing work beside a notebook",
+      "videos": [
+        {
+          "pexels_id": 7744211,
+          "file": "visuals/scene_125/pexels_7744211.mp4",
+          "url": "https://www.pexels.com/video/person-writing-in-notebook-7744211/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 21.0
+        },
+        {
+          "pexels_id": 8134384,
+          "file": "visuals/scene_125/pexels_8134384.mp4",
+          "url": "https://www.pexels.com/video/people-working-together-8134384/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 25.0
+        }
+      ]
+    },
+    {
+      "scene_id": "126",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 811.722,
+      "end": 816.552,
+      "duration": 4.83,
+      "visual_query": "person organizing digital files on a computer",
+      "query": "person organizing digital files on a computer",
+      "videos": [
+        {
+          "pexels_id": 7744311,
+          "file": "visuals/scene_126/pexels_7744311.mp4",
+          "url": "https://www.pexels.com/video/person-using-laptop-7744311/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 19.0
+        },
+        {
+          "pexels_id": 7679847,
+          "file": "visuals/scene_126/pexels_7679847.mp4",
+          "url": "https://www.pexels.com/video/a-person-using-a-laptop-7679847/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 27.0
+        }
+      ]
+    },
+    {
+      "scene_id": "127",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 816.552,
+      "end": 823.352,
+      "duration": 6.8,
+      "visual_query": "small team discussing a new online service",
+      "query": "small team discussing a new online service",
+      "videos": [
+        {
+          "pexels_id": 7661449,
+          "file": "visuals/scene_127/pexels_7661449.mp4",
+          "url": "https://www.pexels.com/video/call-center-agents-at-work-7661449/",
+          "creator": "Jep Gambardella",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        },
+        {
+          "pexels_id": 5940731,
+          "file": "visuals/scene_127/pexels_5940731.mp4",
+          "url": "https://www.pexels.com/video/company-members-in-a-video-conferencing-5940731/",
+          "creator": "Theo  Decker",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "128",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 823.352,
+      "end": 828.576,
+      "duration": 5.224,
+      "visual_query": "creator finishing a project and reviewing the result",
+      "query": "creator finishing a project and reviewing the result",
+      "videos": [
+        {
+          "pexels_id": 8103042,
+          "file": "visuals/scene_128/pexels_8103042.mp4",
+          "url": "https://www.pexels.com/video/man-and-woman-editing-videos-8103042/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 57.0
+        },
+        {
+          "pexels_id": 5972622,
+          "file": "visuals/scene_128/pexels_5972622.mp4",
+          "url": "https://www.pexels.com/video/young-carpenter-using-hand-plane-on-piece-of-wood-5972622/",
+          "creator": "Ono  Kosuki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "129",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 828.576,
+      "end": 835.876,
+      "duration": 7.3,
+      "visual_query": "Creator filming a product demo with a smartphone on a kitchen counter",
+      "query": "Creator filming a product demo with a smartphone on a kitchen counter",
+      "videos": [
+        {
+          "pexels_id": 12691841,
+          "file": "visuals/scene_129/pexels_12691841.mp4",
+          "url": "https://www.pexels.com/video/a-woman-showing-ingredients-while-recording-a-video-in-the-kitchen-12691841/",
+          "creator": "Anna Shvets",
+          "width": 3840,
+          "height": 2160,
+          "duration": 15.0
+        },
+        {
+          "pexels_id": 12691839,
+          "file": "visuals/scene_129/pexels_12691839.mp4",
+          "url": "https://www.pexels.com/video/a-woman-filming-a-video-while-showing-a-plate-with-food-12691839/",
+          "creator": "Anna Shvets",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        }
+      ]
+    },
+    {
+      "scene_id": "130",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 835.876,
+      "end": 841.076,
+      "duration": 5.2,
+      "visual_query": "Scrolling TikTok feed showing branded short‑form videos",
+      "query": "Scrolling TikTok feed showing branded short‑form videos",
+      "videos": [
+        {
+          "pexels_id": 32606765,
+          "file": "visuals/scene_130/pexels_32606765.mp4",
+          "url": "https://www.pexels.com/video/engaging-with-mobile-social-media-content-32606765/",
+          "creator": "Hamim Rony",
+          "width": 3840,
+          "height": 2160,
+          "duration": 29.0
+        },
+        {
+          "pexels_id": 38667504,
+          "file": "visuals/scene_130/pexels_38667504.mp4",
+          "url": "https://www.pexels.com/video/hands-holding-smartphone-with-social-media-app-38667504/",
+          "creator": "Hamim Rony",
+          "width": 3840,
+          "height": 2160,
+          "duration": 21.0
+        }
+      ]
+    },
+    {
+      "scene_id": "131",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 841.076,
+      "end": 846.458,
+      "duration": 5.382,
+      "visual_query": "Overlay graphics displaying earnings per video and affiliate clicks",
+      "query": "Overlay graphics displaying earnings per video and affiliate clicks",
+      "videos": [
+        {
+          "pexels_id": 17647956,
+          "file": "visuals/scene_131/pexels_17647956.mp4",
+          "url": "https://www.pexels.com/video/a-close-up-of-a-metal-bar-with-the-word-subscribe-17647956/",
+          "creator": "Pachon in Motion",
+          "width": 3840,
+          "height": 2160,
+          "duration": 8.0
+        },
+        {
+          "pexels_id": 8100337,
+          "file": "visuals/scene_131/pexels_8100337.mp4",
+          "url": "https://www.pexels.com/video/person-editing-a-video-8100337/",
+          "creator": "Ron Lach",
+          "width": 4096,
+          "height": 2160,
+          "duration": 50.0
+        }
+      ]
+    },
+    {
+      "scene_id": "132",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 846.458,
+      "end": 853.405,
+      "duration": 6.947,
+      "visual_query": "entrepreneur working laptop",
+      "query": "entrepreneur working laptop",
+      "videos": [
+        {
+          "pexels_id": 8478949,
+          "file": "visuals/scene_132/pexels_8478949.mp4",
+          "url": "https://www.pexels.com/video/a-businessman-working-on-his-laptop-8478949/",
+          "creator": "ArtHouse Studio",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 6930823,
+          "file": "visuals/scene_132/pexels_6930823.mp4",
+          "url": "https://www.pexels.com/video/young-man-looking-at-clipboard-and-using-laptop-6930823/",
+          "creator": "Mikhail Nilov",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        }
+      ]
+    },
+    {
+      "scene_id": "133",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 853.405,
+      "end": 860.352,
+      "duration": 6.947,
+      "visual_query": "business technology startup",
+      "query": "business technology startup",
+      "videos": [
+        {
+          "pexels_id": 6558517,
+          "file": "visuals/scene_133/pexels_6558517.mp4",
+          "url": "https://www.pexels.com/video/person-using-a-tablet-at-work-6558517/",
+          "creator": "Mikael Blomkvist",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        },
+        {
+          "pexels_id": 15728562,
+          "file": "visuals/scene_133/pexels_15728562.mp4",
+          "url": "https://www.pexels.com/video/equipe-trabalhando-em-escritorio-15728562/",
+          "creator": "Geancarlo Peruzzolo",
+          "width": 3840,
+          "height": 2160,
+          "duration": 10.0
+        }
+      ]
+    },
+    {
+      "scene_id": "134",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 860.352,
+      "end": 865.44,
+      "duration": 5.088,
+      "visual_query": "entrepreneur reviewing business plan at desk",
+      "query": "entrepreneur reviewing business plan at desk",
+      "videos": [
+        {
+          "pexels_id": 8279673,
+          "file": "visuals/scene_134/pexels_8279673.mp4",
+          "url": "https://www.pexels.com/video/a-woman-looking-at-the-magazine-8279673/",
+          "creator": "RDNE Stock project",
+          "width": 3840,
+          "height": 2160,
+          "duration": 7.0
+        },
+        {
+          "pexels_id": 7669065,
+          "file": "visuals/scene_134/pexels_7669065.mp4",
+          "url": "https://www.pexels.com/video/man-reading-documents-7669065/",
+          "creator": "Yaroslav Shuraev",
+          "width": 3840,
+          "height": 2160,
+          "duration": 28.0
+        }
+      ]
+    },
+    {
+      "scene_id": "135",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 865.44,
+      "end": 872.904,
+      "duration": 7.464,
+      "visual_query": "close up hands editing digital design on tablet",
+      "query": "close up hands editing digital design on tablet",
+      "videos": [
+        {
+          "pexels_id": 30075909,
+          "file": "visuals/scene_135/pexels_30075909.mp4",
+          "url": "https://www.pexels.com/video/editing-photos-on-a-tablet-with-a-stylus-30075909/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 21.0
+        },
+        {
+          "pexels_id": 29249862,
+          "file": "visuals/scene_135/pexels_29249862.mp4",
+          "url": "https://www.pexels.com/video/creative-designer-working-with-stylus-tablet-and-laptop-29249862/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        }
+      ]
+    },
+    {
+      "scene_id": "136",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 872.904,
+      "end": 880.296,
+      "duration": 7.392,
+      "visual_query": "small business owner checking sales dashboard",
+      "query": "small business owner checking sales dashboard",
+      "videos": [
+        {
+          "pexels_id": 7287759,
+          "file": "visuals/scene_136/pexels_7287759.mp4",
+          "url": "https://www.pexels.com/video/man-doing-a-product-shoot-7287759/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 21.0
+        },
+        {
+          "pexels_id": 7287524,
+          "file": "visuals/scene_136/pexels_7287524.mp4",
+          "url": "https://www.pexels.com/video/woman-writing-orders-while-on-the-phone-7287524/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 14.0
+        }
+      ]
+    },
+    {
+      "scene_id": "137",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 880.296,
+      "end": 886.037,
+      "duration": 5.741,
+      "visual_query": "developer testing software on multiple monitors",
+      "query": "developer testing software on multiple monitors",
+      "videos": [
+        {
+          "pexels_id": 33656654,
+          "file": "visuals/scene_137/pexels_33656654.mp4",
+          "url": "https://www.pexels.com/video/overworked-programmer-in-dimly-lit-room-33656654/",
+          "creator": "Attila Pergel",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 5240935,
+          "file": "visuals/scene_137/pexels_5240935.mp4",
+          "url": "https://www.pexels.com/video/man-working-using-his-computer-5240935/",
+          "creator": "Anete Lusina",
+          "width": 3840,
+          "height": 2160,
+          "duration": 23.0
+        }
+      ]
+    },
+    {
+      "scene_id": "138",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 886.037,
+      "end": 892.459,
+      "duration": 6.422,
+      "visual_query": "creator editing video at home workstation",
+      "query": "creator editing video at home workstation",
+      "videos": [
+        {
+          "pexels_id": 34577544,
+          "file": "visuals/scene_138/pexels_34577544.mp4",
+          "url": "https://www.pexels.com/video/modern-digital-editing-workspace-with-macbook-34577544/",
+          "creator": "Florian Delée",
+          "width": 3840,
+          "height": 2160,
+          "duration": 41.0
+        },
+        {
+          "pexels_id": 37896209,
+          "file": "visuals/scene_138/pexels_37896209.mp4",
+          "url": "https://www.pexels.com/video/creative-workstation-with-camera-gear-and-editing-setup-37896209/",
+          "creator": "Jakub Zerdzicki",
+          "width": 3840,
+          "height": 2160,
+          "duration": 18.0
+        }
+      ]
+    },
+    {
+      "scene_id": "139",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 892.459,
+      "end": 898.88,
+      "duration": 6.421,
+      "visual_query": "online store owner packing customer orders",
+      "query": "online store owner packing customer orders",
+      "videos": [
+        {
+          "pexels_id": 7855137,
+          "file": "visuals/scene_139/pexels_7855137.mp4",
+          "url": "https://www.pexels.com/video/working-in-a-start-up-business-7855137/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 12.0
+        },
+        {
+          "pexels_id": 7855144,
+          "file": "visuals/scene_139/pexels_7855144.mp4",
+          "url": "https://www.pexels.com/video/woman-packing-a-product-7855144/",
+          "creator": "Kampus Production",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        }
+      ]
+    },
+    {
+      "scene_id": "140",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 898.88,
+      "end": 905.301,
+      "duration": 6.421,
+      "visual_query": "professional researching market trends on laptop",
+      "query": "professional researching market trends on laptop",
+      "videos": [
+        {
+          "pexels_id": 5743032,
+          "file": "visuals/scene_140/pexels_5743032.mp4",
+          "url": "https://www.pexels.com/video/a-businessman-reviewing-a-document-5743032/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 7055352,
+          "file": "visuals/scene_140/pexels_7055352.mp4",
+          "url": "https://www.pexels.com/video/hands-typing-in-a-laptop-7055352/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 19.0
+        }
+      ]
+    },
+    {
+      "scene_id": "141",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 905.301,
+      "end": 911.723,
+      "duration": 6.422,
+      "visual_query": "startup team brainstorming around whiteboard",
+      "query": "startup team brainstorming around whiteboard",
+      "videos": [
+        {
+          "pexels_id": 12283403,
+          "file": "visuals/scene_141/pexels_12283403.mp4",
+          "url": "https://www.pexels.com/video/a-man-writing-on-a-whiteboard-and-talking-to-his-coworkers-12283403/",
+          "creator": "utopia 36",
+          "width": 3840,
+          "height": 2160,
+          "duration": 11.0
+        },
+        {
+          "pexels_id": 6803594,
+          "file": "visuals/scene_141/pexels_6803594.mp4",
+          "url": "https://www.pexels.com/video/people-in-a-meeting-discussing-a-graph-6803594/",
+          "creator": "cottonbro studio",
+          "width": 4096,
+          "height": 2160,
+          "duration": 45.0
+        }
+      ]
+    },
+    {
+      "scene_id": "142",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 911.723,
+      "end": 917.424,
+      "duration": 5.701,
+      "visual_query": "person comparing business analytics charts",
+      "query": "person comparing business analytics charts",
+      "videos": [
+        {
+          "pexels_id": 7687646,
+          "file": "visuals/scene_142/pexels_7687646.mp4",
+          "url": "https://www.pexels.com/video/a-person-discussing-statistics-report-7687646/",
+          "creator": "Kindel Media",
+          "width": 3840,
+          "height": 2160,
+          "duration": 9.0
+        },
+        {
+          "pexels_id": 7580275,
+          "file": "visuals/scene_142/pexels_7580275.mp4",
+          "url": "https://www.pexels.com/video/analyzing-the-stock-market-movement-7580275/",
+          "creator": "Tima Miroshnichenko",
+          "width": 4096,
+          "height": 2160,
+          "duration": 13.0
+        }
+      ]
+    },
+    {
+      "scene_id": "143",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 917.424,
+      "end": 924.565,
+      "duration": 7.141,
+      "visual_query": "freelancer working in modern home office",
+      "query": "freelancer working in modern home office",
+      "videos": [
+        {
+          "pexels_id": 6332867,
+          "file": "visuals/scene_143/pexels_6332867.mp4",
+          "url": "https://www.pexels.com/video/man-taking-out-work-materials-from-bag-and-arranging-it-on-work-desk-6332867/",
+          "creator": "https://kaboompics.com/",
+          "width": 4096,
+          "height": 2160,
+          "duration": 22.0
+        },
+        {
+          "pexels_id": 8120850,
+          "file": "visuals/scene_143/pexels_8120850.mp4",
+          "url": "https://www.pexels.com/video/a-man-using-a-laptop-8120850/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 17.0
+        }
+      ]
+    },
+    {
+      "scene_id": "144",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 924.565,
+      "end": 930.912,
+      "duration": 6.347,
+      "visual_query": "hands typing code in dark computer workspace",
+      "query": "hands typing code in dark computer workspace",
+      "videos": [
+        {
+          "pexels_id": 13522186,
+          "file": "visuals/scene_144/pexels_13522186.mp4",
+          "url": "https://www.pexels.com/video/a-programmer-working-on-a-laptop-computer-13522186/",
+          "creator": "Raddy",
+          "width": 3840,
+          "height": 2160,
+          "duration": 13.0
+        },
+        {
+          "pexels_id": 18382358,
+          "file": "visuals/scene_144/pexels_18382358.mp4",
+          "url": "https://www.pexels.com/video/software-developer-18382358/",
+          "creator": "Milos Jevtic",
+          "width": 3840,
+          "height": 2160,
+          "duration": 16.0
+        }
+      ]
+    },
+    {
+      "scene_id": "145",
+      "type": "visual",
+      "visual_type": "visual",
+      "start": 930.912,
+      "end": 937.408,
+      "duration": 6.496,
+      "visual_query": "designer refining product mockup on screen",
+      "query": "designer refining product mockup on screen",
+      "videos": [
+        {
+          "pexels_id": 7744200,
+          "file": "visuals/scene_145/pexels_7744200.mp4",
+          "url": "https://www.pexels.com/video/flatlay-of-school-materials-7744200/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 27.0
+        },
+        {
+          "pexels_id": 8165663,
+          "file": "visuals/scene_145/pexels_8165663.mp4",
+          "url": "https://www.pexels.com/video/a-man-typing-on-a-laptop-8165663/",
+          "creator": "MART  PRODUCTION",
+          "width": 4096,
+          "height": 2160,
+          "duration": 29.0
+        }
+      ]
+    },
+    {
+      "scene_id": "146",
+      "type": "outro",
+      "visual_type": "outro",
+      "start": 937.408,
+      "end": 945.408,
+      "duration": 8.0,
+      "visual_query": "modern city skyline night",
+      "query": "modern city skyline night",
+      "videos": []
+    }
+  ]
+}

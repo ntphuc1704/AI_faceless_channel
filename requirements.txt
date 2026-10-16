@@ -1,0 +1,4 @@
+groq
+edge-tts
+ffmpeg
+faster-whisper

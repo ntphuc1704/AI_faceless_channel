@@ -1,0 +1,29 @@
+# Generated video and audio
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.aac
+
+# Generated assets and temporary folders
+video_temp/
+subtitle_temp/
+normalized_scenes/
+visuals/
+audio/
+background_music/
+temp/
+tmp/
+output/
+outputs/
+__pycache__/
+
+# Generated metadata
+scenes.json
+voice_segments.json
+content.txt
+
+# Secrets
+.env
+.env.*
+!.env.example

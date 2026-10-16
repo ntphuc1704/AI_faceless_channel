@@ -1,0 +1,15 @@
+{
+  "scene_id": 1,
+  "start": 0.0,
+  "end": 10.0,
+  "duration": 10.0,
+  "query": "person working late on laptop",
+  "type": "hook",
+  "section": null,
+  "title": null,
+  "pexels_id": 34771081,
+  "pexels_url": "https://www.pexels.com/video/typing-at-a-laptop-in-a-dimly-lit-room-34771081/",
+  "photographer": "Anh Nguyen",
+  "photographer_url": "https://www.pexels.com/@anh-nguyen-517648218",
+  "source_video_url": "https://videos.pexels.com/video-files/34771081/14741679_3840_2160_25fps.mp4"
+}
